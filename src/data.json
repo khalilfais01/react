@@ -1,0 +1,23 @@
+{
+      "facebook":{
+            "url":"http://facebook.com/",
+            "name":"Facebook",
+            "number":"number : 0666666666",
+            "email":"khalildjaariri@gmail.com",
+            "img":"https://picsum.photos/200"
+      },
+      "youtube":{
+            "url":"http://youtube.com/",
+            "name":"Youtube",
+            "number":"number : 0666666666",
+            "email":"khalildjaariri@gmail.com",
+            "img":"https://picsum.photos/201"
+      },
+      "google":{
+            "url":"http://google.com/",
+            "name":"Google",
+            "number":"number : 0666666666",
+            "email":"khalildjaariri@gmail.com",
+            "img":"https://picsum.photos/202"
+      }
+}
